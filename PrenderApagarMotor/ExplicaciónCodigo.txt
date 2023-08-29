@@ -1,0 +1,5 @@
+---------PRIMER CÓDIGO: Primer Commit
+En esta primera prueba, es un código sencillo en cual solo tenemos un botón y un motor. Solo cuando se presiona el botón y si se mantiene presionado el motor se va a mover. Cuando dejamos de presionar el motor no se mueve
+
+-----SEGUNDO COMMIT:
+En nuestro circuito agregamos otro botón, ahora tenemos dos botones. Cuando presionamos un botón el botón se comienza a mover, si presionamos el otro botón va a apagar el motor. Tenemos un efecto bandera.
